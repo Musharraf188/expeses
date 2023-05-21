@@ -1,7 +1,8 @@
 import React from "react";
 import ExpenseItem from "./components/ExpenseItem";
 function App(){
-    return <ExpenseItem />
+    return <div>
+        <ExpenseItem /></div>
 }
 
 export default App;
